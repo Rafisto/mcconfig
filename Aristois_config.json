@@ -1,0 +1,2205 @@
+{
+  "version": 4.0,
+  "dataFixerRevision": 1,
+  "appearance": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "scrollbar": {
+      "value": 1457979643,
+      "falpha": 0.0
+    },
+    "padding": 10.031884057971014,
+    "rgb_accent": true,
+    "font_shadow": 1,
+    "color": {
+      "value": 1635647630,
+      "falpha": 0.0
+    },
+    "active": {
+      "value": -1179393,
+      "falpha": 0.0
+    },
+    "accent": {
+      "value": -10747649,
+      "falpha": 0.0
+    },
+    "rgb_speed": 0.006,
+    "hover": {
+      "value": -1965838,
+      "falpha": 0.0
+    },
+    "popup": {
+      "value": -11464343,
+      "falpha": 0.0
+    },
+    "header": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "context_items": 5,
+    "text_align": 0,
+    "disabled": {
+      "value": -1543725313,
+      "falpha": 0.0
+    },
+    "scrollbar_width": 15.0,
+    "tooltips": true,
+    "font": "Consolas"
+  },
+  "gui": {
+    "keyBind": {
+      "keyCode": 344,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": true,
+    "show_icons": true,
+    "icon_color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "hide_hud": true,
+    "blur_background": true,
+    "blur_strength": 20.0,
+    "show_keybinds": false
+  },
+  "properties": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "key_up": false,
+    "chat_overlay": true,
+    "marketplace": true,
+    "background": {
+      "path": "C:\\Users\\Rafist0\\AppData\\Roaming\\.minecraft"
+    },
+    "main_menu": true,
+    "esc_button": true
+  },
+  "quickmenu": {
+    "keyBind": {
+      "keyCode": 258,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": true,
+    "auto_close": true,
+    "notification": true,
+    "max_results": 5
+  },
+  "combatsettings": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "hostile_only": false,
+    "attack_mode": 2,
+    "invisible": false,
+    "behind_wall": true,
+    "fov": 360.0,
+    "sleeping": false,
+    "friends": false
+  },
+  "autoeat": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": true,
+    "pinned": false,
+    "mode": 2,
+    "eat_near_hostile": false,
+    "swap": true,
+    "trigger": 16.0,
+    "eat_raw": false
+  },
+  "autoeject": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "autofish": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "catch_delay.": 6,
+    "auto_cast": true,
+    "splash_range": 10.0,
+    "auto_replace": true
+  },
+  "automine": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "autocommand": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "delay": 20,
+    "interval": 1
+  },
+  "autoparkour": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "autoreconnect": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "reconnect_delay": 5,
+    "interval": 0
+  },
+  "autojump": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "autosneak": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "autosprint": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "autochest": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 2,
+    "filter_mode": 0
+  },
+  "autotool": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "swap": false,
+    "revert": true
+  },
+  "autooffhand": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "selected_item": {
+      "translationKey": "totem_of_undying"
+    }
+  },
+  "autowalk": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "autosign": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "text": "Waddup"
+  },
+  "autopot": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "health_min.": 10.0,
+    "throw_delay": 10
+  },
+  "autosoup": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "health_mode": false,
+    "food_lvl.": 10.0
+  },
+  "autoreplace": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "swap_empty": true,
+    "durability": true,
+    "threshold": 0.15,
+    "hotbar": false
+  },
+  "crystalaura": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "overlay": true,
+    "place_delay": 300,
+    "attack_delay": 500,
+    "max_range": 4.0,
+    "player_range": 15.0,
+    "attack": true,
+    "cooldown": 0.9,
+    "place": true,
+    "max_crystals": 3,
+    "min_health": 10.0
+  },
+  "criticals": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "autoarmor": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "priority": 1,
+    "creative": false
+  },
+  "autodisconnect": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 1,
+    "autodisable": true,
+    "health_trigger": 8.0,
+    "singleplayer": false,
+    "tags": false,
+    "disable_autoreconnect": true
+  },
+  "autorespawn": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "killaura": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 1,
+    "random": true,
+    "attack_mode": 0,
+    "hit_while_eating": true,
+    "cps": 5,
+    "cooldown": 0.9,
+    "priority": 1,
+    "autoweapon": true
+  },
+  "reach": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "reach": 5.0
+  },
+  "regen": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "speed": 100.0
+  },
+  "triggerbot": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "attack_mode": 0,
+    "cooldown": 0.9,
+    "priority": 1
+  },
+  "autoclicker": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "cps": 5,
+    "right_click": false
+  },
+  "autoweapon": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "cancel": false,
+    "swap": false
+  },
+  "aimassist": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "lock_angle": 10.0,
+    "drop_distance": 8.0,
+    "min_angle": 0.25,
+    "held_key": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "persistence": 5.0,
+    "drop_angle": 30.0,
+    "smooth": true
+  },
+  "bowassist": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "lock_angle": 10.0,
+    "drop_distance": 50.0,
+    "min_angle": 0.25,
+    "held_key": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "persistence": 7.0,
+    "drop_angle": 30.0,
+    "smooth": true
+  },
+  "armordisplay": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 1,
+    "position": 0,
+    "enchant_scale": 0.5
+  },
+  "bettercrosshair": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": true,
+    "pinned": false,
+    "distance": 1.3,
+    "color": {
+      "value": -3800833,
+      "falpha": 0.0
+    },
+    "thickness": 1.45,
+    "length": 3.5,
+    "cooldown": true,
+    "rgb_mode": false
+  },
+  "noportalanimation": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "invhud": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "row_items": 5
+  },
+  "radar": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "offset": 0.0,
+    "players": true,
+    "delta_range": 10.0,
+    "y-lock": true,
+    "range": 50,
+    "scale": 1.15,
+    "radius": 50.0,
+    "render": 0,
+    "direction": 1
+  },
+  "tabui": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": true
+  },
+  "noslow": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "blocks": true,
+    "webs": true,
+    "sneaking": true,
+    "eating": true,
+    "hunger": true
+  },
+  "bhop": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "speed": 2
+  },
+  "fishmode": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "blink": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 0,
+    "overlay": true,
+    "speed": 2
+  },
+  "bunnyjump": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "jump_height": 0.8
+  },
+  "elytraflight": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "limit_speed": false,
+    "dampen": false,
+    "limitspeed": 33.5
+  },
+  "fastladders": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "speed": 0.2872
+  },
+  "flight": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "damage_mode": false,
+    "stationary_delay": 500,
+    "moving_delay": 400,
+    "speed": 0.85,
+    "no_fov": true
+  },
+  "entityflight": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mobs": false,
+    "alt._hold": false,
+    "boats": false
+  },
+  "freecam": {
+    "keyBind": {
+      "keyCode": 86,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "speed": 0.25
+  },
+  "glide": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "fall_speed": 0.125
+  },
+  "looklock": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "pitch_value": 0.0,
+    "yaw_value": 90.0,
+    "pitch": false,
+    "yaw": true
+  },
+  "inventorywalk": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "jesus": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 0
+  },
+  "nofall": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 0
+  },
+  "velocity": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "horizontal": 0.0,
+    "vertical": 0.0
+  },
+  "airjump": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "safewalk": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "scaffoldwalk": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "overlay": true
+  },
+  "nopush": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "entities": true,
+    "fluids": true
+  },
+  "fastbridge": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 0
+  },
+  "antilevitation": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "speed": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "autodisable": true,
+    "apply_for_entities": true,
+    "riding_speed": 5.0,
+    "walk_speed": 0.4
+  },
+  "spider": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "speed": 0.2
+  },
+  "step": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "apply_for_entities": false,
+    "step_height": 2.0
+  },
+  "waterjump": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "jetpack": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 0,
+    "speed": 1.0
+  },
+  "horsejump": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "antiafk": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "delay": 3,
+    "walk_range": 3
+  },
+  "annoy": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "splitter": "\u003e",
+    "username": "Notch"
+  },
+  "chatcolor": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "chatmute": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "chatspammer": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "anti-spam_length": 16,
+    "anti_anti-spam": true,
+    "message_interval": 8.0,
+    "interval": 1,
+    "message": "What\u0027s 2+2?"
+  },
+  "commandkeybind": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": true,
+    "pinned": true,
+    "open_keybind": {
+      "keyCode": 46,
+      "modifier": 0
+    }
+  },
+  "derp": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "fancychat": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "ghosthand": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "irc-mute": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": true,
+    "pinned": false
+  },
+  "nameprotect": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "name": "Notch"
+  },
+  "oneclickfriends": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "skinblinker": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "delay": 40.0
+  },
+  "twerk": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "delay": 1.0
+  },
+  "unfocusedcpu": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "limited_fps": 5
+  },
+  "shulkerpeek": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "compact": false
+  },
+  "inventory++": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "enderpeek": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "tagdetector": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 1
+  },
+  "lightvision": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "antianimation": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "totem": true,
+    "potions": true,
+    "fire": true,
+    "underwater": false,
+    "hurtcam": true,
+    "wall": false,
+    "pumpkin": true,
+    "fog": true
+  },
+  "betternametags": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "enchants": true,
+    "max_range": 80,
+    "size": 1.0,
+    "entities": false,
+    "starting_height": -5.0,
+    "players": true,
+    "percentage": false,
+    "dropped": false,
+    "chests": false,
+    "pet_owners": false,
+    "inventory": true,
+    "enchant_scale": 0.28
+  },
+  "breadcrumbs": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "rgb_mode": true,
+    "append": true
+  },
+  "storageesp": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 1,
+    "outline_color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "filled_color": {
+      "value": 872415231,
+      "falpha": 0.0
+    },
+    "distance": 4,
+    "line_thickness": 2,
+    "filled": true,
+    "render": 0
+  },
+  "holeesp": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "dubious_color": {
+      "value": -65536,
+      "falpha": 0.0
+    },
+    "cautious_score": 5,
+    "cautious_color": {
+      "value": -256,
+      "falpha": 0.0
+    },
+    "safe_color": {
+      "value": -16711936,
+      "falpha": 0.0
+    },
+    "scan_radius": 5
+  },
+  "itemesp": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 0,
+    "outline_color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "filled_color": {
+      "value": 872415231,
+      "falpha": 0.0
+    },
+    "distance": 50,
+    "color": {
+      "value": 520053760,
+      "falpha": 0.0
+    },
+    "line_thickness": 2,
+    "filled": true
+  },
+  "entityesp": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "outline_color": {
+      "value": -65536,
+      "falpha": 0.0
+    },
+    "distance": 50,
+    "players": true,
+    "hostile": {
+      "value": 520028160,
+      "falpha": 0.0
+    },
+    "neutral": {
+      "value": 503381760,
+      "falpha": 0.0
+    },
+    "filled": true,
+    "mode": 0,
+    "filled_color": {
+      "value": 872415231,
+      "falpha": 0.0
+    },
+    "line_thickness": 2,
+    "friend": {
+      "value": 520083220,
+      "falpha": 0.0
+    },
+    "render": 1,
+    "player": {
+      "value": 503316735,
+      "falpha": 0.0
+    }
+  },
+  "fullbright": {
+    "keyBind": {
+      "keyCode": 67,
+      "modifier": 0
+    },
+    "state": true,
+    "pinned": false,
+    "max_brightness": 16.0
+  },
+  "noweather": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "chunkviewer": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "fullchunk": true,
+    "render_chunks": true,
+    "show_old": false,
+    "toggle_clear": true,
+    "max_timings": 1000,
+    "max_chunks": 5120,
+    "logging_mode": 0,
+    "render_color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "timings": true,
+    "show_new": true,
+    "view_distance": 180
+  },
+  "structurefinder": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "woodland_mansion": true,
+    "display_mod": 2,
+    "ocean_monument": true,
+    "buried_treasure": true,
+    "stronghold": true,
+    "extra_map_icons": true
+  },
+  "tracers": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": true,
+    "pinned": false,
+    "hidden": false,
+    "players": true,
+    "storage": false
+  },
+  "trajectories": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "line_color": {
+      "value": -16711681,
+      "falpha": 0.0
+    },
+    "box_color": {
+      "value": 838926847,
+      "falpha": 0.0
+    }
+  },
+  "truesight": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "waypoints": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "death_waypoints": true,
+    "show_tracer": true
+  },
+  "xray": {
+    "keyBind": {
+      "keyCode": 88,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "disable_caves": false,
+    "legit_mode": false,
+    "opacity": 100.0,
+    "enable_opacity": false,
+    "fluids": true
+  },
+  "rainbowenchant": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "dinnerbone": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "barriervision": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "blockesp": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "render_distance": 5
+  },
+  "customf3": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "staticvision": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "fov_multiplier": 1.0
+  },
+  "cameranoclip": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "distance": 4.0
+  },
+  "norender": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "particles": false
+  },
+  "storagepeek": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "cache": 30,
+    "mouse_over": false,
+    "range": 15.0,
+    "index_time": 300.0,
+    "empty_chests": true,
+    "speed": 800.0
+  },
+  "fastbreak": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 0,
+    "multiplier": 1.8
+  },
+  "fastplace": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "nuker": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "y-limit": false,
+    "range": 4.5,
+    "nuke_all_blocks": true,
+    "auto_disable": true,
+    "y-level": 60
+  },
+  "bucketland": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "fall_distance": 8.0,
+    "toasts": true
+  },
+  "timer": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "speed": 2.0,
+    "tpssync": false
+  },
+  "anticactus": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "antiberrybush": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "rangenotifier": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "removed": "%s is now out of range",
+    "added": "%s is now in range"
+  },
+  "logoutspots": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "toasts": true,
+    "render_distance": 50.0
+  },
+  "nodelay": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "noworldborder": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false
+  },
+  "murdermysteries": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "tracer": true,
+    "announce": false
+  },
+  "prophunt": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "mode": 0,
+    "outline": true,
+    "overlay": false,
+    "tracers": true,
+    "max_prop_health": 20.0
+  },
+  "miniplayer": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "size": 80.0,
+    "location": 5,
+    "priority": 20
+  },
+  "activepotions": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": true,
+    "pinned": true,
+    "secondary": {
+      "value": -5066062,
+      "falpha": 0.0
+    },
+    "location": 3,
+    "rgb": false,
+    "priority": 1,
+    "vanilla_overlay": false,
+    "primary": {
+      "value": -1,
+      "falpha": 0.0
+    }
+  },
+  "movementinfo": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": true,
+    "pinned": true,
+    "secondary": {
+      "value": -5066062,
+      "falpha": 0.0
+    },
+    "nether_coords": false,
+    "location": 6,
+    "rgb": false,
+    "priority": 1,
+    "degrees": false,
+    "primary": {
+      "value": -1,
+      "falpha": 0.0
+    }
+  },
+  "worldinfo": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": false,
+    "secondary": {
+      "value": -5066062,
+      "falpha": 0.0
+    },
+    "location": 6,
+    "rgb": false,
+    "priority": 1,
+    "primary": {
+      "value": -1,
+      "falpha": 0.0
+    }
+  },
+  "performance": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": true,
+    "pinned": true,
+    "secondary": {
+      "value": -5066062,
+      "falpha": 0.0
+    },
+    "location": 5,
+    "rgb": false,
+    "priority": 2,
+    "primary": {
+      "value": -1,
+      "falpha": 0.0
+    }
+  },
+  "activemods": {
+    "keyBind": {
+      "keyCode": -1,
+      "modifier": 0
+    },
+    "state": false,
+    "pinned": true,
+    "secondary": {
+      "value": -5066062,
+      "falpha": 0.0
+    },
+    "location": 2,
+    "show_modes": true,
+    "rgb": true,
+    "priority": 1,
+    "primary": {
+      "value": -1,
+      "falpha": 0.0
+    }
+  },
+  "the_new_welcome_screen": true,
+  "guilded-splash-screen": true,
+  "a-software-version-key-a": 460,
+  "shown_gui_usage": true,
+  "first_time_ui_open": true,
+  "containers": {
+    "Movement": {
+      "bounds": {
+        "x": 10.0,
+        "y": 10.0,
+        "width": 200.0,
+        "height": 400.0
+      },
+      "collapsed": false
+    },
+    "Gui": {
+      "bounds": {
+        "x": 10.0,
+        "y": 420.0,
+        "width": 200.0,
+        "height": 348.0
+      },
+      "collapsed": false
+    },
+    "Combat": {
+      "bounds": {
+        "x": 220.0,
+        "y": 10.0,
+        "width": 200.0,
+        "height": 400.0
+      },
+      "collapsed": false
+    },
+    "Other": {
+      "bounds": {
+        "x": 220.0,
+        "y": 420.0,
+        "width": 200.0,
+        "height": 400.0
+      },
+      "collapsed": false
+    },
+    "World": {
+      "bounds": {
+        "x": 430.0,
+        "y": 10.0,
+        "width": 200.0,
+        "height": 400.0
+      },
+      "collapsed": false
+    },
+    "Render": {
+      "bounds": {
+        "x": 430.0,
+        "y": 420.0,
+        "width": 200.0,
+        "height": 400.0
+      },
+      "collapsed": false
+    },
+    "Minigame": {
+      "bounds": {
+        "x": 640.0,
+        "y": 10.0,
+        "width": 200.0,
+        "height": 133.0
+      },
+      "collapsed": false
+    },
+    "Auto": {
+      "bounds": {
+        "x": 640.0,
+        "y": 153.0,
+        "width": 200.0,
+        "height": 400.0
+      },
+      "collapsed": false
+    },
+    "Hud": {
+      "bounds": {
+        "x": 850.0,
+        "y": 10.0,
+        "width": 200.0,
+        "height": 391.0
+      },
+      "collapsed": false
+    },
+    "search": {
+      "bounds": {
+        "x": 848.0,
+        "y": 411.0,
+        "width": 202.0,
+        "height": 400.0
+      },
+      "collapsed": false
+    },
+    "pinned": {
+      "bounds": {
+        "x": 1060.0,
+        "y": 10.0,
+        "width": 200.0,
+        "height": 400.0
+      },
+      "collapsed": false
+    }
+  },
+  "xrayBlockList": [
+    {
+      "translationKey": "gold_ore"
+    },
+    {
+      "translationKey": "iron_ore"
+    },
+    {
+      "translationKey": "coal_ore"
+    },
+    {
+      "translationKey": "redstone_ore"
+    },
+    {
+      "translationKey": "emerald_ore"
+    },
+    {
+      "translationKey": "diamond_ore"
+    },
+    {
+      "translationKey": "lapis_ore"
+    },
+    {
+      "translationKey": "ancient_debris"
+    },
+    {
+      "translationKey": "nether_gold_ore"
+    },
+    {
+      "translationKey": "lapis_block"
+    },
+    {
+      "translationKey": "gold_block"
+    },
+    {
+      "translationKey": "iron_block"
+    },
+    {
+      "translationKey": "diamond_block"
+    },
+    {
+      "translationKey": "emerald_block"
+    },
+    {
+      "translationKey": "netherite_block"
+    },
+    {
+      "translationKey": "obsidian"
+    },
+    {
+      "translationKey": "spawner"
+    },
+    {
+      "translationKey": "end_portal_frame"
+    },
+    {
+      "translationKey": "copper_ore"
+    },
+    {
+      "translationKey": "deepslate_gold_ore"
+    },
+    {
+      "translationKey": "deepslate_iron_ore"
+    },
+    {
+      "translationKey": "deepslate_coal_ore"
+    },
+    {
+      "translationKey": "deepslate_lapis_ore"
+    },
+    {
+      "translationKey": "deepslate_diamond_ore"
+    },
+    {
+      "translationKey": "deepslate_redstone_ore"
+    },
+    {
+      "translationKey": "deepslate_emerald_ore"
+    },
+    {
+      "translationKey": "deepslate_copper_ore"
+    },
+    {
+      "translationKey": "nether_quartz_ore"
+    }
+  ],
+  "waypoints_array": [
+    {
+      "x": -15,
+      "y": 97,
+      "z": 715,
+      "color": -20561,
+      "name": "Death",
+      "server": "0.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -23,
+      "y": 89,
+      "z": -2,
+      "color": -20561,
+      "name": "Death",
+      "server": "0.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -43,
+      "y": 98,
+      "z": 15,
+      "color": -20561,
+      "name": "Death",
+      "server": "0.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": 3,
+      "y": 78,
+      "z": -41,
+      "color": -20561,
+      "name": "Death",
+      "server": "0.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": 20,
+      "y": 81,
+      "z": -36,
+      "color": -20561,
+      "name": "Death",
+      "server": "0.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": 11,
+      "y": 93,
+      "z": 5,
+      "color": -20561,
+      "name": "Death",
+      "server": "0.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -47,
+      "y": 121,
+      "z": 21,
+      "color": -20561,
+      "name": "Death",
+      "server": "0.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": 75,
+      "y": 110,
+      "z": 766,
+      "color": -20561,
+      "name": "Death",
+      "server": "0.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -15,
+      "y": 74,
+      "z": 716,
+      "color": -20561,
+      "name": "Death",
+      "server": "0.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": 114,
+      "y": 117,
+      "z": 93,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100",
+      "enabled": false
+    },
+    {
+      "x": -12,
+      "y": 59,
+      "z": 53,
+      "color": -20561,
+      "name": "Death",
+      "server": "5.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -35,
+      "y": 73,
+      "z": -191,
+      "color": -20561,
+      "name": "Death",
+      "server": "5.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -10,
+      "y": 60,
+      "z": 46,
+      "color": -20561,
+      "name": "Death",
+      "server": "5.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": 17,
+      "y": 68,
+      "z": 67,
+      "color": -20561,
+      "name": "Death",
+      "server": "5.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -66,
+      "y": 64,
+      "z": -16,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100",
+      "enabled": false
+    },
+    {
+      "x": 20,
+      "y": 69,
+      "z": 37,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100",
+      "enabled": false
+    },
+    {
+      "x": -13,
+      "y": 63,
+      "z": 39,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100",
+      "enabled": false
+    },
+    {
+      "x": -27,
+      "y": 97,
+      "z": 714,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100",
+      "enabled": false
+    },
+    {
+      "x": -22,
+      "y": 98,
+      "z": 723,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100",
+      "enabled": false
+    },
+    {
+      "x": -16,
+      "y": 64,
+      "z": 677,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100",
+      "enabled": false
+    },
+    {
+      "x": -21,
+      "y": 36,
+      "z": 718,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100",
+      "enabled": false
+    },
+    {
+      "x": -46,
+      "y": 64,
+      "z": 640,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100",
+      "enabled": false
+    },
+    {
+      "x": 7,
+      "y": 31,
+      "z": 18,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100/-1",
+      "enabled": false
+    },
+    {
+      "x": 9,
+      "y": 31,
+      "z": 24,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100/-1",
+      "enabled": false
+    },
+    {
+      "x": 0,
+      "y": 71,
+      "z": 666,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100",
+      "enabled": false
+    },
+    {
+      "x": -26,
+      "y": 97,
+      "z": 712,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100",
+      "enabled": false
+    },
+    {
+      "x": 128,
+      "y": 49,
+      "z": 74,
+      "color": -20561,
+      "name": "Death",
+      "server": "192.168.100.100/-1",
+      "enabled": false
+    },
+    {
+      "x": -362,
+      "y": 5,
+      "z": 3699,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -368,
+      "y": 4,
+      "z": 3693,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -379,
+      "y": 11,
+      "z": 3693,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -343,
+      "y": 9,
+      "z": 3686,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -385,
+      "y": 14,
+      "z": 3682,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -388,
+      "y": 14,
+      "z": 3684,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -383,
+      "y": 9,
+      "z": 3690,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -383,
+      "y": 12,
+      "z": 3685,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -372,
+      "y": 49,
+      "z": 3730,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -360,
+      "y": 43,
+      "z": 3687,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -367,
+      "y": 25,
+      "z": 3710,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -363,
+      "y": 64,
+      "z": 3765,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -336,
+      "y": 63,
+      "z": 3644,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -311,
+      "y": 63,
+      "z": 3654,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -296,
+      "y": 191,
+      "z": 3974,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -16,
+      "y": 63,
+      "z": 698,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    },
+    {
+      "x": -16,
+      "y": 69,
+      "z": 688,
+      "color": -20561,
+      "name": "Death",
+      "server": "6.tcp.eu.ngrok.io",
+      "enabled": false
+    }
+  ],
+  "autoEatItemList": [
+    {
+      "translationKey": "golden_apple"
+    },
+    {
+      "translationKey": "enchanted_golden_apple"
+    }
+  ],
+  "autoEjectItemList": [],
+  "autoCommandsList": [],
+  "autoChestItemFilter": [],
+  "crystalauraselectedEntitiesList": [],
+  "autodisconnect_tag_detector_tags": [],
+  "killauraselectedEntitiesList": [],
+  "triggerbotselectedEntitiesList": [],
+  "radarEntityList": [],
+  "ghosthandBlockList": [
+    {
+      "translationKey": "chest"
+    },
+    {
+      "translationKey": "ender_chest"
+    },
+    {
+      "translationKey": "trapped_chest"
+    },
+    {
+      "translationKey": "lever"
+    }
+  ],
+  "tagdetector_tag_detector_tags": [],
+  "storageEspBlocks": [],
+  "entityEspEntityList": [
+    {
+      "translationKey": "iron_golem"
+    }
+  ],
+  "tracerEntityList": [
+    {
+      "translationKey": "iron_golem"
+    },
+    {
+      "translationKey": "wither_skeleton"
+    }
+  ],
+  "tracerItemList": [
+    {
+      "translationKey": "bow"
+    }
+  ],
+  "blockEspBlockList": [],
+  "excludedDataList": [],
+  "replacedDataList": [],
+  "noRender_Entities": [],
+  "nukerBlockList": [],
+  "logoutPositions": [],
+  "murderMysteriesWeaponList": [
+    {
+      "translationKey": "diamond_sword"
+    },
+    {
+      "translationKey": "iron_sword"
+    }
+  ],
+  "activeModsExcluded": [],
+  "macroManager": [],
+  "friendsManager": [],
+  "ignoreManager": [],
+  "ui-font-type": "Consolas"
+}
